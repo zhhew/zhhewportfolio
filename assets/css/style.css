@@ -196,7 +196,7 @@ nav.navbar.bootsnav .navbar-toggle {
     align-items: center;
     justify-content: center;
     position: relative;
-    background: "assets/images/portfolio/5.png" no-repeat;
+    background: url("../images/portfolio/IMG_6344.jpg")no-repeat;
     background-size: cover;
     background-position: center;
     height: 890px;
